@@ -2,7 +2,7 @@
 cls
 
 echo ========================================
-echo     BypassGPT v2 - Setup ^& Launch
+echo     BypassGPT v1 - Setup ^& Launch
 echo ========================================
 echo.
 
